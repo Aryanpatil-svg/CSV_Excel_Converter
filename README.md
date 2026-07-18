@@ -31,7 +31,7 @@ Convert **CSV → Excel (.xlsx)** and **Excel (.xlsx) → CSV** with an intuitiv
 
 ## Main Application
 
-![Main Window](screenshots/home.png)
+![Main Window](screenshot/home.png1.png)
 
 ## Dataset Preview
 
